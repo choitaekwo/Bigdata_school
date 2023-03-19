@@ -7,17 +7,17 @@
   
       <img src = "image/No_module_pyspark.png">
       
---Solution: findspark 라는 라이브러리를 불러와서 pyspark를 찾게 한다.
+• Solution: findspark 라는 라이브러리를 불러와서 pyspark를 찾게 한다.
 
-      ![NMspark](image/find pyspark.png)
+   <img src = "image/find pyspark.png">  
       
 2. 원인 파악 불가.
 
       <img src = "image/data_parsing_error.png" width = 800 height = 400>
       
---Solution: 해당 셀 한 번 더 실행하니까 잘 됨.
+• Solution: 해당 셀 한 번 더 실행하니까 잘 됨.
 
-      <img src = "image/data_parsing_error_solve.png">
+   <img src = "image/data_parsing_error_solve.png">
       
 ----
 그 외에 syntax 에러를 제외하고는 정상적으로 동작하였음.
